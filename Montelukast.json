@@ -1141,56 +1141,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|Zhao 1997 PO MD 10mg|Filmcoated tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Zhao 1997 PO MD 10mg|Filmcoated tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Zhao 1997 PO MD 10mg|Filmcoated tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Zhao 1997 PO MD 10mg|Filmcoated tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Zhao 1997 PO MD 10mg|Filmcoated tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Zhao 1997 PO MD 10mg|Filmcoated tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Zhao 1997 PO MD 10mg|Filmcoated tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        },
-        {
-          "Path": "Events|Zhao 1997 PO MD 10mg|Filmcoated tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Montelukast|Plasma (Peripheral Venous Blood)"
       ],
@@ -1431,12 +1381,6 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Cheng 1996 IV 18mg|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 15.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
           "Path": "Montelukast|Blood/Plasma concentration ratio",
           "Value": 0.65,
           "ValueOrigin": {
@@ -1674,12 +1618,6 @@
         }
       ],
       "Parameters": [
-        {
-          "Path": "Events|Cheng 1996 IV 9mg|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 15.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
         {
           "Path": "Montelukast|Blood/Plasma concentration ratio",
           "Value": 0.65,
@@ -1920,12 +1858,6 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Cheng 1996 IV 9mg|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 15.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
           "Path": "Montelukast|Blood/Plasma concentration ratio",
           "Value": 0.65,
           "ValueOrigin": {
@@ -2165,12 +2097,6 @@
       ],
       "Parameters": [
         {
-          "Path": "Events|Cheng 1996 IV 3mg|No formulation|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 15.0,
-          "Unit": "min",
-          "ValueOrigin": {}
-        },
-        {
           "Path": "Montelukast|Blood/Plasma concentration ratio",
           "Value": 0.65,
           "ValueOrigin": {
@@ -2408,14 +2334,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|PO 10mg|Chewable tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Montelukast|Plasma (Peripheral Venous Blood)"
       ],
@@ -2648,14 +2566,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|PO 10mg|Filmcoated tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2892,14 +2802,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|PO 5mg|Chewable tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Montelukast|Plasma (Peripheral Venous Blood)"
       ],
@@ -3132,14 +3034,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|PO 2mg|Chewable tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3376,14 +3270,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|PO 10mg|Filmcoated tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Montelukast|Plasma (Peripheral Venous Blood)"
       ],
@@ -3616,14 +3502,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|PO 10mg|Filmcoated tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3860,14 +3738,6 @@
           ]
         }
       ],
-      "Parameters": [
-        {
-          "Path": "Events|4 mg po|Singulair mini Oral granules|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
-        }
-      ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Montelukast|Plasma (Peripheral Venous Blood)"
       ],
@@ -4100,14 +3970,6 @@
               }
             }
           ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|4 mg po|Sandoz Oral granules|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg",
-          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
