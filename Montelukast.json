@@ -1119,7 +1119,10 @@
       "ObservedData": [
         "Zhao 1997 - MD 10mg FCT - Montelukast - PO - 10 mg - Plasma - agg. (n=12)"
       ],
-      "Solver": {},
+      "Solver": {
+        "AbsTol": 1E-11,
+        "RelTol": 1E-06
+      },
       "OutputSchema": [
         {
           "Parameters": [
