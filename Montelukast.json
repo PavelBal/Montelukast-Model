@@ -720,13 +720,6 @@
             "Source": "Publication",
             "Description": "Marzolini 2017"
           }
-        },
-        {
-          "Name": "Use bile salt micellization",
-          "Value": 0.0,
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
         }
       ]
     }
